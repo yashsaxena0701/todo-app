@@ -1,0 +1,20 @@
+.container {
+    text-align: left;
+
+
+}
+
+.enter {
+    width: 100%;
+    font-size: 23px;
+}
+
+
+.date {
+    width: 100%;
+    font-size: 23px;
+}
+
+.button {
+    min-width: 80px;
+}
